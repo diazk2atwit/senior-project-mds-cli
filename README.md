@@ -6,7 +6,7 @@ Allows users to scan hyperlinks and files to detect malware via the terminal
 
 ## Installation
 
-**Install not available yet**
+**Package not available yet, but users can clone this project**
 
 ## Usage
 
